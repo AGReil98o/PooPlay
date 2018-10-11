@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+}
+.navbar {
+    font-family: sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 10px;
+    text-decoration: blink;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #E822F8;
+    background-color: black;
+}
+.btn-pooplay:link {
+    background-color: black;
+    color: white;
+}
+.btn-pooplay:visited {
+    background-color: black;
+    color: white;
+}
+.btn-pooplay:hover {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.btn-pooplay:active {
+    background-color: white;
+    color: black;
+}
+.btn-pooplay {
+    border-color: #005792;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0.5px 0.5px 0.5px #005792;
+}
+#reproductor {
+    width: 250px;
+    height: 250px;
+    margin: 20px left;
+    padding: 5px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#botones {
+    float: left;
+    width: 200px;
+    height: 15px;
+}
+.audio {
+    width: 500px;
+    height: 20px;
+    opacity: 0.4;
+}
+.subtitulos {
+    color: #E822F8;
+    font-family: sans-serif;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    text-decoration: blink;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #E822F8;
+    text-indent: 4%;
+}
+img-carousel{
+    width: 420px;
+}
